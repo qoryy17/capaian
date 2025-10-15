@@ -2,9 +2,6 @@
 
 Aplikasi web dashboard untuk memantau dan menampilkan Key Performance Indicator (KPI) terkait penyelesaian perkara di lingkungan peradilan. Aplikasi ini menyajikan data secara visual dan tabular untuk memudahkan analisis capaian kinerja.
 
-
-*Catatan: Ganti gambar di atas dengan screenshot aplikasi Anda.*
-
 ---
 
 ## ✨ Fitur Utama
