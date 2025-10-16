@@ -3,7 +3,7 @@ class Database
 {
     private $host = 'localhost';
     private $user = 'root';
-    private $pass = 'sql123!@#';
+    private $pass = '';
     private $dbname = 'db_sipp311';
     private $conn;
 
